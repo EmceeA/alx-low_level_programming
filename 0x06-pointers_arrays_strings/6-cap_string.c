@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * cap_string - capitalizes all words of a string
+ * leet - encodes a string into 1337
  * @s: input string.
- * Return: the pointer to dest.
+ * Return: the pointer dest.
  */
 
 
